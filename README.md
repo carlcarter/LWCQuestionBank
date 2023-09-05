@@ -25,13 +25,8 @@ To use this component, include it in a Salesforce flow. An example metadata file
 
 ### Step 4: Importing Sample Data (Optional)
 
-If required, you can import sample questions to populate the `Question__c` object. Use the following Salesforce CLI command to import the data:
+If required, you can import sample questions from ./scripts/data/Question__c.csv to populate the `Question__c` object. 
 
-```
-sfdx force:data:tree:import -p ./scripts/data/Question__c.json -u <org name>
-```
-
-Replace `<org name>` with the alias or username of your Salesforce organization.
 
 ## Component Details
 - **Component Name**: questionBank
