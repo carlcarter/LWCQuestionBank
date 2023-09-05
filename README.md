@@ -45,3 +45,5 @@ This component is created for demonstration purposes only and serves as a guide 
 By following the above steps, you should have the `questionBank` component set up and running in your Salesforce organization. This component serves as a great starting point for developers looking to understand how to create and use custom Lightning Web Components in Salesforce.
 
 Feel free to modify and adapt the component as per your requirements and use case.
+
+![Example Usage](example.gif)
