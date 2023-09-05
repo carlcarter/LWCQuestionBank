@@ -1,8 +1,8 @@
-# Salesforce Randomized Question Component
+# Salesforce Randomised Question Component
 
 ## Introduction
 
-This repository contains a Salesforce Lightning Web Component (LWC) designed for demonstration purposes only. It serves as a guide on how to display a randomized question to a Salesforce user from a list of active questions stored in a custom object called "Question__c". 
+This repository contains a Salesforce Lightning Web Component (LWC) designed for demonstration purposes only. It serves as a guide on how to display a randomised question to a Salesforce user from a list of active questions stored in a custom object called "Question__c". 
 
 ## Setup and Installation
 
@@ -39,7 +39,7 @@ Replace `<org name>` with the alias or username of your Salesforce organization.
 - **Primary Function**: The component relies on the `QuestionController` Apex class to select a random question from the `Question__c` object where `Active__c` is set to true.
 
 ## Disclaimer
-This component is created for demonstration purposes only and serves as a guide to showcase how a randomized question can be displayed to a Salesforce user. It is not intended for production use.
+This component is created for demonstration purposes only and serves as a guide to showcase how a randomised question can be displayed to a Salesforce user. It is not intended for production use.
 
 ## Conclusion
 By following the above steps, you should have the `questionBank` component set up and running in your Salesforce organization. This component serves as a great starting point for developers looking to understand how to create and use custom Lightning Web Components in Salesforce.
