@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef1"
+            },
+            "Name": "Q-0000",
+            "QuestionText__c": "Could you please confirm your full name as it appears on your account?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef2"
+            },
+            "Name": "Q-0001",
+            "QuestionText__c": "Could you please confirm your date of birth?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef3"
+            },
+            "Name": "Q-0002",
+            "QuestionText__c": "Could you please confirm the address associated with your account?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef4"
+            },
+            "Name": "Q-0005",
+            "QuestionText__c": "Can you tell me about a recent investment or transaction you made with us, such as the investment type and amount?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef5"
+            },
+            "Name": "Q-0004",
+            "QuestionText__c": "Could you please confirm your account number?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef6"
+            },
+            "Name": "Q-0006",
+            "QuestionText__c": "Could you please confirm the email address or phone number associated with your account?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef7"
+            },
+            "Name": "Q-0003",
+            "QuestionText__c": "Can you please provide details of your last transaction with us, such as the date and amount?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef8"
+            },
+            "Name": "Q-0007",
+            "QuestionText__c": "Could you please answer the security question: [Security question that the customer set up during account creation]?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef9"
+            },
+            "Name": "Q-0008",
+            "QuestionText__c": "Can you recall any recent communication or notifications you received from us, such as the subject or content of a recent email?",
+            "Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "Question__c",
+                "referenceId": "Question__cRef10"
+            },
+            "Name": "Q-0009",
+            "QuestionText__c": "Could you please provide details on a specific investment in your portfolio, such as the name of the investment and the date you acquired it?",
+            "Active__c": true
+        }
+    ]
+}
